@@ -1,4 +1,4 @@
-# YuanDanPing
+# YueDanPing
 reliable evalution for LLM foundation models monthly.
 
 
